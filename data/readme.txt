@@ -1,0 +1,1 @@
+data downloaded in https://github.com/jiecaoyu/XNOR-Net-PyTorch
