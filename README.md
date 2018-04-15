@@ -8,4 +8,5 @@ acc:48.71%
 <img src="https://github.com/ljhandlwt/xnor-net-tf/blob/master/log/Figure_1.png">
 
 ### init_lr=1e-4
-acc:48.71%
+acc:80.09%
+<img src="https://github.com/ljhandlwt/xnor-net-tf/blob/master/log/Figure_2.png">
