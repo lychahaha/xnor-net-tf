@@ -1,5 +1,8 @@
 # xnor-net-tf
 xnor-net by tensorflow
+tensorflow:1.4.0
+cuda:8.0
+cudnn:6.0
 
 ## cifar-10
 open "log" folder for more info.
